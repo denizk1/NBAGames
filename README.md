@@ -7,4 +7,4 @@ Analysis of matches played by the given NBA teams. Displays match scores, analys
 Go to the directory where the project is
 
 ## Step 2
-After typing "python DecisionTreeClassifier.py" in the command line, run it
+After typing "python NBA.py" in the command line, run it
